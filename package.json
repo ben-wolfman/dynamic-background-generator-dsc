@@ -1,0 +1,22 @@
+{
+  "name": "dynamic-background-generator",
+  "version": "1.0.0",
+  "description": "Dynamic background generator for web pages",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aradhya-B/Dynamic-Background-Generator.git"
+  },
+  "author": "Aradhya Bansal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aradhya-B/Dynamic-Background-Generator/issues"
+  },
+  "homepage": "https://github.com/Aradhya-B/Dynamic-Background-Generator#readme",
+  "dependencies": {
+    "lodash": "^4.17.19"
+  }
+}
